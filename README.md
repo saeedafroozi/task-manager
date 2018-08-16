@@ -28,9 +28,9 @@ by BookTime link you Book time automatically or ordinary
 and by Booktimelist  Link, you will be able to see book time list in past
 
 how much time you spent on this assignment: Actually I've Started this project from 8-10-2018 and finished in 8-15-2018 
-to more precise It has last about 8 hours totally
-what would did or didn't like and What would you have done differently, if you had had more time?:not only I didn't have  any major problems on it that I don't like but also if I had more time I would try to use dapper micro orm instead of EntityFramework and use more CSS for good presentation  and using Ioc Container for making an instance 
-With which parts of your application are you satisfied: actually I like all part of this solution but in particular, I enjoyed when I  connected the visual studio to MySql Server
+to more precise It has last about 10 hours totally
+what would did or didn't like and What would you have done differently, if you had had more time:not only I didn't have  any major problems on it that I didn't like but also if I had more time I would try to use more CSS for good presentation   and using better validation to ware user for filling the requirements
+With which parts of your application are you satisfied: actually I like all part of this solution but in particular, I enjoy whenever use typescript with react because of  strongly type and better handwriting
 Which would need improvement: in my opinion, the css need more improvement specifically use css class instead of inline style
 
 
