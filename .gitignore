@@ -1,0 +1,12 @@
+.DS_STORE
+/Task/bin
+/Task/obj
+/Task/node_modules
+packages
+.vs
+/Service/bin
+/Service/obj
+/Task/build
+/Task/Scripts/**/*.js
+/Task/Scripts/**/*.js.map
+/Task/package-lock.json

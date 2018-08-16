@@ -1,0 +1,12 @@
+﻿export const PleaseFillDescription = 'Please Fill Description'
+export const PleaseFillFinishTime = 'Please Fill FinishTime'
+export const PleaseFillOrdinaryRunningTime = 'Please Fill Ordinary RunningTime'
+export const hours = 'hours'
+export const minutes = 'minutes'
+export const seconds = 'seconds'
+export const ManualRunningTime = 'OrdinaryRunningTime'
+export const FinishTime = 'FinishTime'
+export const BookTimeList = 'BookTimeList'
+export const Enter = 'Enter'
+export const InvalidDate ='Invalid Date'
+
