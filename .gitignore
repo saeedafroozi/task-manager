@@ -10,3 +10,5 @@ packages
 /Task/Scripts/**/*.js
 /Task/Scripts/**/*.js.map
 /Task/package-lock.json
+/Task/Scripts/BookTime/Component/Hoc.tsx
+/Task/Scripts/BookTime/Component/hoc2.tsx
